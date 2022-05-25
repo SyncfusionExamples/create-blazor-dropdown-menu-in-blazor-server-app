@@ -51,7 +51,7 @@ You can configure context menu control to add submenu items in Blazor Dropdown M
 
 [Documentation](https://blazor.syncfusion.com/documentation/drop-down-menu/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/buttons/dropdown-menu?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/create-blazor-dropdown-menu-in-blazor-server-app.git?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples)
 
@@ -62,7 +62,7 @@ You can configure context menu control to add submenu items in Blazor Dropdown M
 [Knowledge Base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples)
 
 ### About Syncfusion Blazor Components
-The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-progress-button-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Dropdown Menu, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples).
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Dropdown Menu, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples).
 
 ### About Syncfusion
 
