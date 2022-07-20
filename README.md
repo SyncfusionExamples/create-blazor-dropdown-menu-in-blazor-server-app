@@ -43,7 +43,7 @@ You can configure a dropdown to open the popup menu without the arrow icon.
 You can configure context menu control to add submenu items in Blazor Dropdown Menu.
 
 ## Related links
-[Learn More about Blazor ListView](https://www.syncfusion.com/blazor-components/blazor-dropdown-menu?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples)
+[Learn More about Blazor Dropdown Menu](https://www.syncfusion.com/blazor-components/blazor-dropdown-menu?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples)
 
