@@ -2,11 +2,16 @@
 
 [Blazor Dropdown Menu](https://www.syncfusion.com/blazor-components/blazor-dropdown-menu?utm_source=github&utm_medium=listing&utm_campaign=blazor-dropdown-menu-github-samples) is a graphical user interface component that lets users choose from a list of actions that can be triggered. Allows users to toggle between the different contextual overlay that displays the list of action items. In this video, you will learn how to add a simple Blazor Dropdown Menu to a Blazor server app. You will see how to add icons and change their position. You will also learn how to navigate to other webpages as well as display the Dropdown Menu items horizontally. Finally, you will see how to hide the Dropdown Menu arrow and bind a click event to the component.
 
-## Project pre-requisites
-Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK latest version(3.1.2) in your machine before starting to work on this project.
+## Prerequisites
 
-## How to run this application?
-To run this application, you need to first clone the create-blazor-sparkline-chart-components-in-blazor-server-app repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and benefits
 

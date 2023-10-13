@@ -3,24 +3,18 @@
 <SfDropDownButton Content="@ButtonContent" IconCss="e-ddb-icons e-menu"
     IconPosition="SplitButtonIconPosition.Left" CssClass="e-caret-hide"
      Disabled="true">
-    <DropDownButtonEvents OnOpen="AddCssClass"></DropDownButtonEvents>
-    <DropDownButtonItems>
-        <DropDownButtonItem Text="Edit"></DropDownButtonItem>
-        <DropDownButtonItem Text="Delete"></DropDownButtonItem>
-        <DropDownButtonItem Separator="true"></DropDownButtonItem>
-        <DropDownButtonItem Text="Mark as Read"></DropDownButtonItem>
-        <DropDownButtonItem Text="Like"></DropDownButtonItem>
-        <DropDownButtonItem Text="Share"
-             Url="https://www.google.co.in/search?q=twitter"></DropDownButtonItem>
-    </DropDownButtonItems>
+    <DropDownMenuItems>
+        <DropDownMenuItem Text="Edit"></DropDownMenuItem>
+        <DropDownMenuItem Text="Delete"></DropDownMenuItem>
+        <DropDownMenuItem Separator="true"></DropDownMenuItem>
+        <DropDownMenuItem Text="Mark as Read"></DropDownMenuItem>
+        <DropDownMenuItem Text="Like"></DropDownMenuItem>
+        <DropDownMenuItem Text="Share" Url="https://www.google.co.in/search?q=twitter"></DropDownMenuItem>
+    </DropDownMenuItems>
 </SfDropDownButton>
 
 @code {
     public string ButtonContent = "Options";
-    public void AddCssClass(BeforeOpenCloseMenuEventArgs args)
-    {
-        args.Element.AddClass(new string[] { "e-popup-items" });
-    }
 }
 
 <style>
